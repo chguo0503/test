@@ -1,1 +1,1 @@
-THis is c.txt
+This is c.txt
